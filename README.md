@@ -4,13 +4,21 @@ A simple geocoder for [Leaflet](http://leafletjs.com/) that by default uses [OSM
 
 The plugin supports many different data providers:
 
+## Default
+
 * [OSM](http://www.openstreetmap.org/)/[Nominatim](http://wiki.openstreetmap.org/wiki/Nominatim)
+
+## Useful for finding Universities or other places of interest
+
+* [Photon](http://photon.komoot.de/)
+
+## others
+
 * [Bing Locations API](http://msdn.microsoft.com/en-us/library/ff701715.aspx)
 * [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/)
 * [Mapbox Geocoding](https://www.mapbox.com/developers/api/geocoding/)
 * [MapQuest Geocoding API](http://developer.mapquest.com/web/products/dev-services/geocoding-ws)
 * [What3Words](http://what3words.com/)
-* [Photon](http://photon.komoot.de/)
 * [Mapzen Search](https://mapzen.com/projects/search)
 * [HERE Geocoder API](https://developer.here.com/rest-apis/documentation/geocoder/topics/overview.html)
 
